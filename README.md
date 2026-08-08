@@ -26,6 +26,14 @@
 
 ## 快速开始
 
+整库安装：
+
+```bash
+npx skills add skills-repo/machine-learning-engineer -g -y
+```
+
+按需安装子技能：
+
 ```bash
 npx skills add skills-repo/machine-learning-engineer@machine-learning -g -y
 npx skills add skills-repo/machine-learning-engineer@deep-learning-pytorch -g -y
