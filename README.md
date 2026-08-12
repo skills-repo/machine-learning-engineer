@@ -23,6 +23,7 @@
 | 深度学习 | `deep-learning-pytorch` | PyTorch 深度学习：Transformers、扩散模型、Gradio 部署 | [衍生](https://skills.sh/mindrally/skills/deep-learning-pytorch) |
 | 计算机视觉 | `computer-vision-opencv` | 图像处理、目标检测、视频分析、OpenCV+PyTorch | [衍生](https://skills.sh/mindrally/skills/computer-vision-opencv) |
 | 工程实践 | `pytorch-patterns` | PyTorch 最佳实践：训练管线、数据加载、模型架构设计 | [衍生](https://skills.sh/affaan-m/everything-claude-code/pytorch-patterns) |
+| AI 应用 | `claude-agent-sdk` | 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排 | [衍生](https://skills.sh/bobmatnyc/claude-mpm-skills/anthropic-sdk) |
 
 ## 快速开始
 
@@ -39,6 +40,7 @@ npx skills add skills-repo/machine-learning-engineer@machine-learning -g -y
 npx skills add skills-repo/machine-learning-engineer@deep-learning-pytorch -g -y
 npx skills add skills-repo/machine-learning-engineer@computer-vision-opencv -g -y
 npx skills add skills-repo/machine-learning-engineer@pytorch-patterns -g -y
+npx skills add skills-repo/machine-learning-engineer@claude-agent-sdk -g -y
 ```
 
 ## 推荐工作流
