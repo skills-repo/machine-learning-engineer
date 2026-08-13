@@ -40,7 +40,7 @@ metadata:
 | PyTorch 深度学习：Transformers、扩散模型、LLM 开发 | `skills/deep-learning-pytorch/SKILL.md` | pytorch 深度学习 transformer 扩散模型 llm gradio 部署 |
 | ML 全流程：JAX、特征工程、模型选择与评估 | `skills/machine-learning/SKILL.md` | 机器学习 jax scikit-learn 特征工程 模型选择 评估 调优 |
 | PyTorch 工程实践：训练管线、数据加载、架构设计 | `skills/pytorch-patterns/SKILL.md` | pytorch 工程 训练管线 数据加载 模型架构 可复现 |
-| 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排 | `skills/claude-agent-sdk/SKILL.md` | claude-api anthropic agent-sdk 工具调用 构建agent 流式 llm 应用 |
+| 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排（代码骨架/决策树/踩坑见 playbook） | `skills/claude-agent-sdk/SKILL.md` `references/claude-api-playbook.md` | claude-api anthropic agent-sdk 工具调用 构建agent 流式 llm 应用 playbook 踩坑 |
 
 > 路由规则：方法论 / 评估类任务读 `references/`；要落地具体动作（训 CV、写 PyTorch、做 ML、查泄漏）直接调 `skills/`。
 
