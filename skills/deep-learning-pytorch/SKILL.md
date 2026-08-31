@@ -80,3 +80,9 @@ for epoch in range(epochs):
 - 不覆盖 JAX/TensorFlow/Keras 等其他框架
 - 大模型训练（>7B 参数）需要分布式训练基础设施
 - Transformer 推理优化建议结合 vLLM 等专用工具
+
+## 相关参考（Playbook）
+
+- `references/ml-pipeline-design.md` — 训练管线、分布式扩容与工程化
+- `references/model-evaluation.md` — 模型验证与防泄漏评估
+- `references/experiment-reproducibility.md` — 训练可复现：种子 / 环境 / 数据版本

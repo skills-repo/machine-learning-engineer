@@ -76,3 +76,7 @@ tags:
 - 极低光照或遮挡场景精度有限
 - 不覆盖 3D 视觉和点云处理
 - 视频分析需要用户安装 ffmpeg 依赖
+
+## 相关参考（Playbook）
+
+- `references/model-evaluation.md` — 视觉任务的指标选择与防泄漏验证

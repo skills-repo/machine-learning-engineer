@@ -41,3 +41,14 @@
 
 - 不给"模型够不够好"的绝对判断，给相对基线与目标的差距。
 - 业务指标（收入/留存）高于离线指标，需标注鸿沟。
+
+## 相关子技能与层次边界（L2→L3）
+
+本 playbook 提供「按任务选指标、防泄漏验证」的评估方法（L2 决策层），落地到以下子技能：
+
+- `skills/machine-learning/SKILL.md` — 模型选择与评估的核心方法
+- `skills/deep-learning-pytorch/SKILL.md` — 深度学习模型的验证与调优
+- `skills/computer-vision-opencv/SKILL.md` — 视觉任务的指标与验证策略
+- `skills/pytorch-patterns/SKILL.md` — 可复现的评估实验设计
+
+边界：本篇给指标 / 验证 / 泄漏的相对判断，不替 `skills/` 下的子技能拍板上线。

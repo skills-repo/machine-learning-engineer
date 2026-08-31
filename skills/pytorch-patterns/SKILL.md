@@ -86,3 +86,9 @@ tags:
 - 不替代 PyTorch Lightning 等高层框架的设计决策
 - 分布式训练假设单机多卡，多机场景需额外配置
 - 不涉及模型压缩（量化、剪枝、蒸馏）
+
+## 相关参考（Playbook）
+
+- `references/ml-pipeline-design.md` — 训练管线设计与效率优化
+- `references/experiment-reproducibility.md` — 可复现实验：种子 / 环境 / 超参记录
+- `references/model-evaluation.md` — 可复现的评估实验设计

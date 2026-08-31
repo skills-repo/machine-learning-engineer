@@ -75,3 +75,9 @@ tags:
 - 不覆盖强化学习和生成模型（参见 deep-learning-pytorch）
 - 不直接处理非结构化数据（图像用 computer-vision-opencv）
 - 大规模分布式训练需要额外的基础设施知识
+
+## 相关参考（Playbook）
+
+- `references/experiment-reproducibility.md` — 实验可复现：种子 / 环境 / 数据版本化
+- `references/ml-pipeline-design.md` — 训练管线与工程化设计模式
+- `references/model-evaluation.md` — 指标选择与防泄漏验证

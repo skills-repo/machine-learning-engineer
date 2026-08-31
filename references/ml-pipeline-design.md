@@ -7,7 +7,7 @@
 ```
 训练脚本日益增长
   ├─ 数据加载成瓶颈？（是）→ 上高效 DataLoader（预取/并行/缓存）
-  ├─ 实验难以对比？（是）→ 配置化 + 追踪（见 experiment-reproducibility.md）
+  ├─ 实验难以对比？（是）→ 配置化 + 追踪（见 references/experiment-reproducibility.md）
   ├─ 多阶段串联？（是）→ 管线化（流水线 + 检查点）
   └─ 仍是一次性探索 → 保持简单脚本，勿过度工程
 ```
@@ -45,3 +45,13 @@
 
 - 不替用户选框架；给权衡（PyTorch 灵活 / 框架自带管线）。
 - 资源预算需结合成本，给出建议而非命令。
+
+## 相关子技能与层次边界（L2→L3）
+
+本 playbook 提供「训练管线与工程化」的设计模式（L2 决策层），落地到以下子技能：
+
+- `skills/deep-learning-pytorch/SKILL.md` — PyTorch 训练循环、分布式扩容与部署
+- `skills/pytorch-patterns/SKILL.md` — 训练管线、数据加载与架构设计最佳实践
+- `skills/machine-learning/SKILL.md` — 从基线到深度学习的管线衔接
+
+边界：本篇给管线权衡与瓶颈判断，不替 `skills/` 下的子技能选框架或编写管线代码。
