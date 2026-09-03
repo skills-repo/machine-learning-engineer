@@ -187,3 +187,7 @@ while True:
 - [ ] 高风险动作有确认 / 白名单
 - [ ] 模型 ID 集中管理、核对最新
 - [ ] 成本与 token 预算已预估并设置护栏
+
+## 相关子技能与层次边界（L2→L3）
+
+- `skills/claude-agent-sdk/SKILL.md` — 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排（本 playbook 是其专属代码骨架与踩坑集）
