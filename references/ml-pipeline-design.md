@@ -50,8 +50,8 @@
 
 本 playbook 提供「训练管线与工程化」的设计模式（L2 决策层），落地到以下子技能：
 
-- `skills/deep-learning-pytorch/SKILL.md` — PyTorch 训练循环、分布式扩容与部署
-- `skills/pytorch-patterns/SKILL.md` — 训练管线、数据加载与架构设计最佳实践
-- `skills/machine-learning/SKILL.md` — 从基线到深度学习的管线衔接
+- [deep-learning-pytorch 子技能](../skills/deep-learning-pytorch/SKILL.md) — PyTorch 训练循环、分布式扩容与部署
+- [pytorch-patterns 子技能](../skills/pytorch-patterns/SKILL.md) — 训练管线、数据加载与架构设计最佳实践
+- [machine-learning 子技能](../skills/machine-learning/SKILL.md) — 从基线到深度学习的管线衔接
 
 边界：本篇给管线权衡与瓶颈判断，不替 `skills/` 下的子技能选框架或编写管线代码。

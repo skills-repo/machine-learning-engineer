@@ -78,6 +78,6 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/experiment-reproducibility.md` — 实验可复现：种子 / 环境 / 数据版本化
-- `references/ml-pipeline-design.md` — 训练管线与工程化设计模式
-- `references/model-evaluation.md` — 指标选择与防泄漏验证
+- [experiment-reproducibility playbook](../../references/experiment-reproducibility.md) — 实验可复现：种子 / 环境 / 数据版本化
+- [ml-pipeline-design playbook](../../references/ml-pipeline-design.md) — 训练管线与工程化设计模式
+- [model-evaluation playbook](../../references/model-evaluation.md) — 指标选择与防泄漏验证

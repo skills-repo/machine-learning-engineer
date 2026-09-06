@@ -79,4 +79,4 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/model-evaluation.md` — 视觉任务的指标选择与防泄漏验证
+- [model-evaluation playbook](../../references/model-evaluation.md) — 视觉任务的指标选择与防泄漏验证

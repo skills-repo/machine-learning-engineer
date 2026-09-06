@@ -190,4 +190,4 @@ while True:
 
 ## 相关子技能与层次边界（L2→L3）
 
-- `skills/claude-agent-sdk/SKILL.md` — 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排（本 playbook 是其专属代码骨架与踩坑集）
+- [claude-agent-sdk 子技能](../skills/claude-agent-sdk/SKILL.md) — 用 Claude API / Agent SDK 构建 AI 应用与 Agent：Messages API、流式、工具调用、Agent 编排（本 playbook 是其专属代码骨架与踩坑集）

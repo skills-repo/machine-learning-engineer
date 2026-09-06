@@ -30,7 +30,7 @@ tags:
 衍生自社区技能 `bobmatnyc/claude-mpm-skills@anthropic-sdk`（skills.sh 257 安装，
 官方 Claude AI 集成导向），并参考 `rysweet/amplihack@claude-agent-sdk`（Agent 循环模式）。
 本技能只做路由与能力索引，完整代码骨架、决策树与踩坑清单见
-`references/claude-api-playbook.md`。
+[claude-api-playbook playbook](../../references/claude-api-playbook.md)。
 
 ## 能力
 

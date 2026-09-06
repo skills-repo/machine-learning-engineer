@@ -44,8 +44,8 @@
 
 本 playbook 提供「实验可复现」的方法论（L2 决策层），落地到以下子技能：
 
-- `skills/machine-learning/SKILL.md` — 基线建模与评估的可复现维度（种子 / 数据版本）
-- `skills/deep-learning-pytorch/SKILL.md` — 训练脚本的种子、环境与数据版本化
-- `skills/pytorch-patterns/SKILL.md` — 训练管线的可复现清单与工程实践
+- [machine-learning 子技能](../skills/machine-learning/SKILL.md) — 基线建模与评估的可复现维度（种子 / 数据版本）
+- [deep-learning-pytorch 子技能](../skills/deep-learning-pytorch/SKILL.md) — 训练脚本的种子、环境与数据版本化
+- [pytorch-patterns 子技能](../skills/pytorch-patterns/SKILL.md) — 训练管线的可复现清单与工程实践
 
 边界：本篇只给可复现维度的检查建议，不替 `skills/` 下的子技能决定实验设计或编写代码。

@@ -46,9 +46,9 @@
 
 本 playbook 提供「按任务选指标、防泄漏验证」的评估方法（L2 决策层），落地到以下子技能：
 
-- `skills/machine-learning/SKILL.md` — 模型选择与评估的核心方法
-- `skills/deep-learning-pytorch/SKILL.md` — 深度学习模型的验证与调优
-- `skills/computer-vision-opencv/SKILL.md` — 视觉任务的指标与验证策略
-- `skills/pytorch-patterns/SKILL.md` — 可复现的评估实验设计
+- [machine-learning 子技能](../skills/machine-learning/SKILL.md) — 模型选择与评估的核心方法
+- [deep-learning-pytorch 子技能](../skills/deep-learning-pytorch/SKILL.md) — 深度学习模型的验证与调优
+- [computer-vision-opencv 子技能](../skills/computer-vision-opencv/SKILL.md) — 视觉任务的指标与验证策略
+- [pytorch-patterns 子技能](../skills/pytorch-patterns/SKILL.md) — 可复现的评估实验设计
 
 边界：本篇给指标 / 验证 / 泄漏的相对判断，不替 `skills/` 下的子技能拍板上线。

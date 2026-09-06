@@ -89,6 +89,6 @@ tags:
 
 ## 相关参考（Playbook）
 
-- `references/ml-pipeline-design.md` — 训练管线设计与效率优化
-- `references/experiment-reproducibility.md` — 可复现实验：种子 / 环境 / 超参记录
-- `references/model-evaluation.md` — 可复现的评估实验设计
+- [ml-pipeline-design playbook](../../references/ml-pipeline-design.md) — 训练管线设计与效率优化
+- [experiment-reproducibility playbook](../../references/experiment-reproducibility.md) — 可复现实验：种子 / 环境 / 超参记录
+- [model-evaluation playbook](../../references/model-evaluation.md) — 可复现的评估实验设计

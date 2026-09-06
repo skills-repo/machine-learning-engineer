@@ -83,6 +83,6 @@ for epoch in range(epochs):
 
 ## 相关参考（Playbook）
 
-- `references/ml-pipeline-design.md` — 训练管线、分布式扩容与工程化
-- `references/model-evaluation.md` — 模型验证与防泄漏评估
-- `references/experiment-reproducibility.md` — 训练可复现：种子 / 环境 / 数据版本
+- [ml-pipeline-design playbook](../../references/ml-pipeline-design.md) — 训练管线、分布式扩容与工程化
+- [model-evaluation playbook](../../references/model-evaluation.md) — 模型验证与防泄漏评估
+- [experiment-reproducibility playbook](../../references/experiment-reproducibility.md) — 训练可复现：种子 / 环境 / 数据版本
