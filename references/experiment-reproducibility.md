@@ -22,7 +22,7 @@
 ## 实验追踪
 
 - 每次实验记录：配置、指标、产物（模型/图）、git commit、数据版本。
-- 用实验追踪工具（MLflow / W&B）或最小化的 `assets/ml-experiment-template.md`。
+- 用实验追踪工具（MLflow / W&B）或最小化的 [assets/ml-experiment-template.md](../assets/ml-experiment-template.md)。
 - 比较实验时控制变量：一次只改一个因子。
 
 ## 常见陷阱

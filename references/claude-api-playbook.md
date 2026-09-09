@@ -1,6 +1,6 @@
 # Claude API / Agent SDK 实战手册
 
-> 配套 `skills/claude-agent-sdk/`。这里放代码骨架、决策树、命令与踩坑清单；
+> 配套 [skills/claude-agent-sdk/](../skills/claude-agent-sdk/SKILL.md)。这里放代码骨架、决策树、命令与踩坑清单；
 > 路由层只索引能力，不重复这些内容。所有示例以 Anthropic 官方 SDK 为准，
 > 模型 ID 以 [docs.anthropic.com](https://docs.anthropic.com) 最新为准（示例用 `claude-sonnet-4-5`）。
 

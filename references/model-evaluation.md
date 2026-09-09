@@ -31,7 +31,7 @@
 
 - 切分前不做用到标签的预处理（归一化统计量、特征选择）。
 - 训练/验证/测试严格分离；测试集仅最终用一次。
-- 检查是否有重复样本横跨切分（用 `scripts/dataset_split_check.py`）。
+- 检查是否有重复样本横跨切分（用 [scripts/dataset_split_check.py](../scripts/dataset_split_check.py)）。
 
 ## 输出
 

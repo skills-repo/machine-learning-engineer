@@ -6,10 +6,10 @@
 
 | 环节 | 技能 | 文件 | 用途 |
 |------|------|------|------|
-| ML 基础 | machine-learning | `skills/machine-learning/SKILL.md` | ML 全流程开发：JAX、特征工程、模型选择、评估 |
-| 深度学习 | deep-learning-pytorch | `skills/deep-learning-pytorch/SKILL.md` | PyTorch 深度学习：Transformers、扩散模型、LLM |
-| 视觉 | computer-vision-opencv | `skills/computer-vision-opencv/SKILL.md` | 计算机视觉：OpenCV、图像/视频处理、目标检测 |
-| 工程 | pytorch-patterns | `skills/pytorch-patterns/SKILL.md` | PyTorch 工程实践：训练管线、模型架构、数据加载 |
+| ML 基础 | machine-learning | [skills/machine-learning/SKILL.md](skills/machine-learning/SKILL.md) | ML 全流程开发：JAX、特征工程、模型选择、评估 |
+| 深度学习 | deep-learning-pytorch | [skills/deep-learning-pytorch/SKILL.md](skills/deep-learning-pytorch/SKILL.md) | PyTorch 深度学习：Transformers、扩散模型、LLM |
+| 视觉 | computer-vision-opencv | [skills/computer-vision-opencv/SKILL.md](skills/computer-vision-opencv/SKILL.md) | 计算机视觉：OpenCV、图像/视频处理、目标检测 |
+| 工程 | pytorch-patterns | [skills/pytorch-patterns/SKILL.md](skills/pytorch-patterns/SKILL.md) | PyTorch 工程实践：训练管线、模型架构、数据加载 |
 
 ## 适用场景
 

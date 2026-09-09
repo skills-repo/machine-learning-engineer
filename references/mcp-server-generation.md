@@ -1,6 +1,6 @@
 # MCP Server 生成 Playbook（Python）
 
-> 增量信息：决策树 + 命令 + 踩坑 + 检查清单。配套 `skills/mcp-server-generation/SKILL.md`，不重复子技能内容。
+> 增量信息：决策树 + 命令 + 踩坑 + 检查清单。配套 [skills/mcp-server-generation/SKILL.md](../skills/mcp-server-generation/SKILL.md)，不重复子技能内容。
 
 ## 1. 决策树：要不要做 MCP Server
 
