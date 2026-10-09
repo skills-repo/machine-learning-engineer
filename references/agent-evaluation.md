@@ -1,7 +1,8 @@
 # Agent 评估 Playbook（增量方法论）
 
-> 配套子技能 `skills/agent-evaluation/`。本篇给"决策树 + 命令 + 坑 + 检查清单"，
-> 不在子技能里堆命令细节。默认以 MLflow 3.8+ 为例，其他框架在 §2 给出对照。
+> 配套子技能 [`skills/agent-evaluation/SKILL.md`](../skills/agent-evaluation/SKILL.md)。
+> 本篇是 **L2 方法论层**（决策树 + 命令 + 坑 + 检查清单），`skills/agent-evaluation/` 是 **L3 可安装单元**（评分器脚手架/模板）。
+> **层次边界**：只想看评测方法论 → 只读本篇；要复用评分器骨架/模板才 `npx skills add skills-repo/machine-learning-engineer@agent-evaluation`。默认以 MLflow 3.8+ 为例，其他框架在 §2 给出对照。
 
 ## 1. 先决定"要不要评测、评什么"
 
