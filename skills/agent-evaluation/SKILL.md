@@ -64,5 +64,5 @@ tags:
 ## 与其他技能协作
 
 - 想评测"技能本身质量" → `skills-repo/skill-quality-inspector`
-- 想做可复现实验基线 → `references/experiment-reproducibility.md`
-- 模型指标与数据泄漏排查 → `references/model-evaluation.md`
+- 想做可复现实验基线 → [references/experiment-reproducibility.md](../../references/experiment-reproducibility.md)
+- 模型指标与数据泄漏排查 → [references/model-evaluation.md](../../references/model-evaluation.md)
